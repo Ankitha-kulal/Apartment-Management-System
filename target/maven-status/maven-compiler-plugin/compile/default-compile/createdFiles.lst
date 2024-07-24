@@ -1,0 +1,13 @@
+myserver\updatedelete_servlet.class
+myserver\login_servlet.class
+myserver\addroom.class
+myserver\room_servlet.class
+myserver\addresident.class
+myserver\addunit_servlet.class
+myserver\updatedeleteroom.class
+myserver\Resident.class
+myserver\unit_servlet.class
+myserver\updateroom_servlet.class
+myserver\updateresident.class
+myserver\Room.class
+myserver\deleteunit.class
